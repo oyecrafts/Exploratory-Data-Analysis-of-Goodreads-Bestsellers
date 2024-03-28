@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-of-Goodreads-Bestsellers
+# Exploratory Data Analysis of Goodreads Bestsellers
 ## Introduction
 The dataset provided here originates from the Goodreads API, a platform that offers a plethora of book-related information. This dataset encompasses various details about books, including their titles, authors, user ratings, reviews, prices, publication years, genres, and bestseller ratings. The data has been collected and curated meticulously, offering valuable insights into the literary landscape.
 
