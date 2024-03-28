@@ -3,17 +3,13 @@
 This dataset provides valuable insights into the ratings distribution of bestselling books across different categories. With a meticulous categorization of bestsellers based on their user ratings, this dataset offers a comprehensive overview of the popularity and reception of top-selling books. Whether you're interested in exploring highly-rated bestsellers, very highly-rated bestsellers, or moderately rated bestsellers, this dataset empowers you to analyze trends and patterns in the literary world. Leveraging this dataset opens up opportunities for market research, trend analysis, and strategic decision-making for publishers, authors, and book enthusiasts alike.
 
 ## What were the tasks completed?
-Data Cleaning and Manipulation in Excel:
-
+* Data Cleaning and Manipulation in Excel:
 Conducted data cleaning and manipulation tasks such as removing duplicates, handling missing values, and formatting data for analysis in Excel.
-Data Collection from Kaggle:
-
+* Data Collection from Kaggle:
 Gathered the initial dataset containing information about bestselling books from Kaggle, a popular platform for datasets.
-Visualization in Tableau:
-
+* Visualization in Tableau:
 Created interactive visualizations of the dataset using Tableau, a powerful data visualization tool, to explore and analyze bestseller ratings breakdowns.
-Reporting on Google Docs:
-
+* Reporting on Google Docs:
 Generated reports and summaries of the findings using Google Docs, a collaborative document editing platform, to communicate insights effectively.
 
 ## Overview of the Dataset
