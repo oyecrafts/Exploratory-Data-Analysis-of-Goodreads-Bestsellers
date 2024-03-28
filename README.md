@@ -2,6 +2,18 @@
 ## Introduction
 This dataset provides valuable insights into the ratings distribution of bestselling books across different categories. With a meticulous categorization of bestsellers based on their user ratings, this dataset offers a comprehensive overview of the popularity and reception of top-selling books. Whether you're interested in exploring highly-rated bestsellers, very highly-rated bestsellers, or moderately rated bestsellers, this dataset empowers you to analyze trends and patterns in the literary world. Leveraging this dataset opens up opportunities for market research, trend analysis, and strategic decision-making for publishers, authors, and book enthusiasts alike.
 
+## What questions were asked
+* What is the distribution of bestseller ratings among the top-selling books?
+* How many books fall into each category of bestseller ratings (e.g., very highly rated, highly rated, moderately rated)?
+* Which genres tend to have the highest-rated bestsellers?
+* Are there any trends or patterns in the ratings of bestsellers over time?
+* What are the characteristics of highly-rated bestsellers compared to moderately-rated ones?
+* How do the prices of bestsellers correlate with their ratings?
+* Can we identify any outliers or anomalies in the dataset that may require further investigation?
+* Are there any authors who consistently produce highly-rated bestsellers?
+* How does the number of reviews correlate with the user ratings of bestsellers?
+* What insights can be gained from comparing the ratings breakdowns across different years or time periods?
+
 ## What were the tasks completed?
 * Data Cleaning and Manipulation in Excel:
 Conducted data cleaning and manipulation tasks such as removing duplicates, handling missing values, and formatting data for analysis in Excel.
