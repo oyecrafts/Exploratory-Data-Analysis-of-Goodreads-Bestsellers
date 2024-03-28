@@ -1,6 +1,7 @@
 # Exploratory Data Analysis of Goodreads Bestsellers
 ## Introduction
-The dataset provided here originates from the Goodreads API, a platform that offers a plethora of book-related information. This dataset encompasses various details about books, including their titles, authors, user ratings, reviews, prices, publication years, genres, and bestseller ratings. The data has been collected and curated meticulously, offering valuable insights into the literary landscape.
+This dataset provides valuable insights into the ratings distribution of bestselling books across different categories. With a meticulous categorization of bestsellers based on their user ratings, this dataset offers a comprehensive overview of the popularity and reception of top-selling books. Whether you're interested in exploring highly-rated bestsellers, very highly-rated bestsellers, or moderately rated bestsellers, this dataset empowers you to analyze trends and patterns in the literary world. Leveraging this dataset opens up opportunities for market research, trend analysis, and strategic decision-making for publishers, authors, and book enthusiasts alike.
+
 
 ## Overview of the Dataset
 The Goodreads books dataset is a comprehensive collection of book-related data obtained from the Goodreads API. It includes information on thousands of books, covering a wide range of genres, authors, and publication years. The dataset provides insights into the popularity, ratings, and reviews of these books, allowing for in-depth exploration and analysis.
